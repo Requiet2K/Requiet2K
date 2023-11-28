@@ -1,16 +1,24 @@
-### Hi there 👋
+## Full-Stack Developer
+Özkan TEL
 
-<!--
-**Requiet2K/Requiet2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Techs
 
-Here are some ideas to get you started:
+### Frontend Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
+![Material-UI (MUI)](https://img.shields.io/badge/-Material_UI-blue?style=flat&logo=material-ui&logoColor=white)
+
+### Backend Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
+
+### Contact with me
+arcibild@gmail.com
+
+[![Requiet2K](https://img.shields.io/badge/-Requiet2K-black?style=flat&logo=github&logoColor=white)](https://github.com/Requiet2K)
+[![Özkan TEL](https://img.shields.io/badge/-Özkan_TEL-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozkantel/)
