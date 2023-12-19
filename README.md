@@ -13,7 +13,7 @@
 ### Backend Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?style=flat&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
 
 ### Contact with me
