@@ -1,16 +1,16 @@
-# Full-Stack Developer
+# Junior Backend Developer
 Özkan TEL
 
 ## Tech Stack
 
 ### Frontend Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
 ![Material-UI (MUI)](https://img.shields.io/badge/-Material_UI-blue?style=flat&logo=material-ui&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 
 ### Backend Tech Stack
 
