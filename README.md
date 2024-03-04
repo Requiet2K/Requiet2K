@@ -27,5 +27,4 @@
 
 📧 arcibild@gmail.com
 
-[![Requiet2K](https://img.shields.io/badge/-Requiet2K-black?style=flat&logo=github&logoColor=white)](https://github.com/Requiet2K)
 [![Özkan TEL](https://img.shields.io/badge/-Özkan_TEL-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozkantel/)
