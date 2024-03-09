@@ -10,7 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1b2a?style=flat&logo=typescript&logoColor=white)
 ![Material-UI (MUI)](https://img.shields.io/badge/-Material_UI-blue?style=flat&logo=material-ui&logoColor=white)
 ![HTML/CSS/JS](https://img.shields.io/badge/-HTML%2FCSS%2FJS-4CAF50?style=flat&label=%20&logoWidth=0&color=880d1e&logo=codeforces&logoColor=white)
-
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
 ### Backend Tech Stack
