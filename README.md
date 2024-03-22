@@ -1,4 +1,4 @@
-# Junior Backend Developer
+# Senior Computer Engineering Student
 Özkan TEL
 
 ## Tech Stack
