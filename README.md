@@ -12,13 +12,19 @@
         </samp>
 </h3>
 <br/>
-<h3 align="center">Contact</h3>
+<h2 align="center">Contact</h2>
 <p align="center">
    <a href="https://www.linkedin.com/in/ozkantel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ozkan"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedlin Profile"/>
    </a>
    <a href="https://www.instagram.com/ozkan1k/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ozkan" />
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+   </a> 
+  <a href="https://leetcode.com/arcibild/" target="_blank">
+     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+   </a> 
+  <a href="https://stackoverflow.com/users/21624113/requiet" target="_blank">
+     <img src="https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Profile"/>
    </a> 
   <br/>
   📧 arcibild@gmail.com
