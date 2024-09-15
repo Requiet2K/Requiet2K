@@ -3,13 +3,16 @@
 </a>
 
 <div align="center">
-  <h1>Junior Backend Developer</h1>
+  <h1>Jr. Java Backend Developer</h1>
 </div>
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/requiet2k">Ozkan TEL</a></b>
         </samp>
+  <p align="center">
+  <samp>Mainly backend developer with frontend knowledge.</samp>
+  </p>
 </h3>
 <br/>
 <h2 align="center">Contact</h2>
@@ -38,18 +41,28 @@
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=00375C&logo=typescript&logoColor=007acc" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=943319&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=0D4670&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JS"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=33244A&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&labelColor=0054A8&logo=mui&logoColor=white" alt="Material-UI"/>
   
   <h3>Backend Tech Stack</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&labelColor=36591F&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&labelColor=36591F&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&labelColor=36591F&logo=spring&logoColor=white" alt="Spring Data"/>
   <img src="https://img.shields.io/badge/Spring%20Security-1CA19F?style=for-the-badge&labelColor=005454&logo=springsecurity&logoColor=white&color=008080" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=2F6792&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&labelColor=00446B&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Thymeleaf-darkgreen?style=for-the-badge&labelColor=black&logo=thymeleaf&logoColor=006400" alt="Thymeleaf"/>
   <img src="https://img.shields.io/badge/Hibernate-orange?style=for-the-badge" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/REST_APIs-green?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JSF-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=white" alt="JSF"/>
+
+  <h3>Tool Stack</h3>
+  <img src="https://img.shields.io/badge/Gitea-6EF93F?style=for-the-badge&logo=gitea&logoColor=black" alt="Gitea"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
  
 <hr/>
