@@ -11,7 +11,7 @@
                 <b><a target="_blank" href="https://github.com/requiet2k">Ozkan TEL</a></b>
         </samp>
   <p align="center">
-  <samp>Mainly backend developer with frontend knowledge.</samp>
+  <samp>Backend developer with frontend knowledge.</samp>
   </p>
 </h3>
 <br/>
