@@ -96,14 +96,6 @@
 </div>
 
 <hr/>
-
-<p align="center">
-  <a href="https://github.com/requiet2k">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=requiet2k&theme=whatsapp-dark" alt="GitHub Streak" />
-  </a>
-</p>
-
-
 <p align="center">
   <a href="https://github.com/requiet2k">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Requiet2K&theme=gotham" alt="Ozkan's GitHub Contribution"/>
